@@ -13,14 +13,13 @@ header {
     height: 450px;
     width: 735, 55px;
     text-align: center;
-    padding-top: 6%;
-
 }
 
 body {
     width: 100%;
     background: linear-gradient(#020114, rgb(10, 4, 90));
     overflow: hidden;
+    padding: 3% 0;
 }
 
 
